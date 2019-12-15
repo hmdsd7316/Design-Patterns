@@ -1,4 +1,4 @@
-package com.sid.DesignPatterns.AbstractFactory;
+package com.sid.DesignPatterns.Creational.AbstractFactory;
 
 public abstract class Dialog {
 	public void renderWindow() {

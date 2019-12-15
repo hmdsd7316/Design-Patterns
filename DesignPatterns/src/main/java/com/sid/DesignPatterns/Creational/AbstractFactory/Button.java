@@ -1,4 +1,4 @@
-package com.sid.DesignPatterns.FactoryPattern.interfaces;
+package com.sid.DesignPatterns.Creational.AbstractFactory;
 
 public interface Button {
 	void render();

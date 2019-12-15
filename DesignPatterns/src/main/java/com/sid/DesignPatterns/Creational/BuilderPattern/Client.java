@@ -1,6 +1,6 @@
-package com.sid.DesignPatterns.BuilderPattern;
+package com.sid.DesignPatterns.Creational.BuilderPattern;
 
-import com.sid.DesignPatterns.BuilderPattern.Computer.ComputerBuilder;
+import com.sid.DesignPatterns.Creational.BuilderPattern.Computer.ComputerBuilder;
 
 public class Client {
 	public static void main(String[] args) {

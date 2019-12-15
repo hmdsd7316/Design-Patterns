@@ -1,6 +1,6 @@
-package com.sid.DesignPatterns.AbstractFactory.concrete;
+package com.sid.DesignPatterns.Creational.FactoryPattern.concrete;
 
-import com.sid.DesignPatterns.AbstractFactory.Button;
+import com.sid.DesignPatterns.Creational.FactoryPattern.interfaces.Button;
 
 public class HtmlButton implements Button {
 

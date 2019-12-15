@@ -1,4 +1,4 @@
-package com.sid.DesignPatterns.AbstractFactory.concrete;
+package com.sid.DesignPatterns.Creational.FactoryPattern.concrete;
 
 import java.awt.Color;
 import java.awt.FlowLayout;
@@ -12,7 +12,8 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 
-import com.sid.DesignPatterns.AbstractFactory.Button;
+import com.sid.DesignPatterns.Creational.FactoryPattern.interfaces.Button;
+
 
 public class WindowsButton implements Button{
 

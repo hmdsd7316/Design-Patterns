@@ -1,4 +1,4 @@
-package com.sid.DesignPatterns.BuilderPattern;
+package com.sid.DesignPatterns.Creational.BuilderPattern;
 
 public class Computer {
 	// required parameters

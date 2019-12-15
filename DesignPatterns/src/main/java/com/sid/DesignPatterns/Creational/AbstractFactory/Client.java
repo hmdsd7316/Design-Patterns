@@ -1,7 +1,7 @@
-package com.sid.DesignPatterns.AbstractFactory;
+package com.sid.DesignPatterns.Creational.AbstractFactory;
 
-import com.sid.DesignPatterns.AbstractFactory.concrete.HtmlDialog;
-import com.sid.DesignPatterns.AbstractFactory.concrete.WindowDialog;
+import com.sid.DesignPatterns.Creational.AbstractFactory.concrete.HtmlDialog;
+import com.sid.DesignPatterns.Creational.AbstractFactory.concrete.WindowDialog;
 
 public class Client {
 
